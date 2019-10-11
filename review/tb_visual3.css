@@ -72,14 +72,16 @@ figcaption{
    padding-right: 0px;
    text-align: center;
 }
-
-
 /* Article Styles */
 /*number 14*/
 article{
    background-image: url(tb_back6.png)  padding-box no-repeat;
    background-size: 15%;
    background-position: bottom right;
+   border-bottom: double 8px rgb(147,116,68);
+   border-right: double 8px rgb(147,116,68);
+   border-radius: 80px;
+   box-shadow: -10px -10px 25px rgba(184,154,112,0.7);
 }
 
 
